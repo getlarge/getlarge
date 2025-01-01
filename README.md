@@ -15,7 +15,7 @@ As an early adopter of **Nx** and **NestJS**, I promote these technologies throu
 [dev.to]: https://dev.to/getlarge
 [Push-Based]: https://push-based.io
 
-<center>
-  <img src="https://github.com/user-attachments/assets/79edab3c-71ca-4add-a33b-2804ac24b582" alt="So you like coffee" width="500" height="300"/>  
-</center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79edab3c-71ca-4add-a33b-2804ac24b582" alt="So you like coffee" width="500" height="270"/>  
+</p>
 
