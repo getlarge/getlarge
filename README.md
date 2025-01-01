@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey 👋
 
-<!--
-**getlarge/getlarge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Backend Developer specializing in JavaScript, TypeScript, and Node.js, I focus on distributed systems, application security and developers productivity.
 
-Here are some ideas to get you started:
+As an early adopter of Nx and NestJS, I promote these technologies through talks, podcasts and open-source contributions, check the list on my [website].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✏️ I write on [dev.to]
+- ❤️‍🔥 Co-organizer of the [NestJS Vienna meetup](http://meetup.com/nestjs-vienna/)
+- 📚 I am ccurently learning Erlang and German :)
+- ☕️ Coffee snob
+
+[website]: https://getlarge.eu
+[dev.to]: https://dev.to/getlarge
+
