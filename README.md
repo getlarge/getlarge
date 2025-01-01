@@ -14,3 +14,5 @@ As an early adopter of **Nx** and **NestJS**, I promote these technologies throu
 [website]: https://getlarge.eu
 [dev.to]: https://dev.to/getlarge
 [Push-Based]: https://push-based.io
+
+![So you like coffee](https://github.com/user-attachments/assets/79edab3c-71ca-4add-a33b-2804ac24b582)
