@@ -4,11 +4,10 @@ I am a Senior Backend Developer specializing in **JavaScript**, **TypeScript**, 
 
 As an early adopter of **Nx** and **NestJS**, I promote these technologies through talks, podcasts and open-source contributions, check the list on my [website].
 
+- 🆓 Independent consultant
 - ✏️ Writing on [dev.to]
-- 💪 Working with the great people from [Push-Based]
 - ❤️‍🔥 Co-organizing the [NestJS Vienna meetup](http://meetup.com/nestjs-vienna/)
 - ⚽️ Part of the [Nx Champion program](https://nx.dev/community)
-- 📚 Currently learning Erlang and German :)
 - ☕️ Coffee snob
 
 [website]: https://getlarge.eu
