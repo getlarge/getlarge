@@ -12,7 +12,3 @@ As an early adopter of **Nx** and **NestJS**, I promote these technologies throu
 
 [website]: https://getlarge.eu
 [dev.to]: https://dev.to/getlarge
-
-<img width="2134" height="1890" alt="Screenshot 2025-06-13 at 19 40 14" src="https://github.com/user-attachments/assets/04bbd0b8-8991-4b1e-8b85-35a1660a860d" />
-
-
