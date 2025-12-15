@@ -6,8 +6,6 @@ As an early adopter of **Nx** and **NestJS**, I promote these technologies throu
 
 - 🆓 Independent consultant
 - ✏️ Writing on [dev.to]
-- ❤️‍🔥 Co-organizing the [NestJS Vienna meetup](http://meetup.com/nestjs-vienna/)
-- ⚽️ Part of the [Nx Champion program](https://nx.dev/community)
 - ☕️ Coffee snob
 
 [website]: https://getlarge.eu
