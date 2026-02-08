@@ -5,7 +5,7 @@ I am a Senior Backend Developer specializing in **JavaScript**, **TypeScript**, 
 As an early adopter of **Nx** and **NestJS**, I promote these technologies through talks, podcasts and open-source contributions, check the list on my [website].
 
 - 🆓 Independent consultant
-- ✏️ Writing on [blog]
+- ✏️ Writing on my [blog]
 - ☕️ Coffee snob
 
 [website]: https://getlarge.eu
