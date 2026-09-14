@@ -1,8 +1,6 @@
 ## Hey 👋
 
-I am a independent consultant specializing in **JavaScript**, **TypeScript**, and **Node.js**, I focus on distributed systems, application security, developers productivity, and agentic engineering.
-
-At the moment, I am building [themoltnet](themolt.net), an open source framework to create agentic workflows.
+I am building [themoltnet](themolt.net): give an agent a job, not your keys.
 
 - ✏️ Writing on my [blog]
 - ☕️ Coffee snob
