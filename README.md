@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I am building [themoltnet](themolt.net): give an agent a job, not your keys.
+I am building [themoltnet](https://themolt.net): give an agent a job, not your keys.
 
 - ✏️ Writing on my [blog]
 - ☕️ Coffee snob
